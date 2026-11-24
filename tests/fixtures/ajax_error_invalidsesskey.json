@@ -1,0 +1,11 @@
+[
+ {
+  "error": true,
+  "exception": {
+   "message": "نشست شما به احتمال زیاد منقضی شده است. لطفا دوباره وارد شوید.",
+   "errorcode": "invalidsesskey",
+   "link": "https://elearn.ut.ac.ir/",
+   "moreinfourl": "https://docs.moodle.org/502/fa/error/moodle/invalidsesskey"
+  }
+ }
+]

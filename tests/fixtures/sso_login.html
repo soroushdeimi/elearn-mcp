@@ -1,0 +1,177 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/ApiContainer.SSO.RCL1/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/ApiContainer.SSO.RCL1/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/ApiContainer.SSO.RCL1/images/favicon-16x16.png">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/ApiContainer.SSO.RCL1/css/bootstrap-rtl.min.css">
+    <!-- Fontawesome CSS -->
+    <link rel="stylesheet" href="/ApiContainer.SSO.RCL1/css/fontawesome-all.min.css">
+    <!-- Flaticon CSS -->
+    <link href="/ApiContainer.SSO.RCL1/fonts/flaticon/flaticon.css" rel="stylesheet" />
+
+    <!-- Google Web Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="/ApiContainer.SSO.RCL1/css/style.css?v=2" rel="stylesheet" />
+
+</head>
+<body>
+    
+
+<div class="nav-page">
+    <!--<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+        <a href="~/" class="navbar-brand">-->
+            <!--Microsoft Azure SSO
+        </a>
+
+    
+    </nav>-->
+</div>
+
+   
+    
+
+
+    <section class="fxt-template-animation fxt-template-layout2">
+        <form class="full-width" action="" method="post">
+            <input type="hidden" id="ReturnUrl" name="ReturnUrl" value="/ApiContainer.SSO.RCL1/connect/authorize/callback?client_id=elearningSSO-VBUoZBaYVL116ZVwxBRSh-caRI6ag4.apigateway.ut.ac.ir&amp;response_type=code&amp;redirect_uri=https%3A%2F%2Felearn.ut.ac.ir%2Fadmin%2Foauth2callback.php&amp;state=%2Fauth%2Futoauth2%2Flogin.php%3Fwantsurl%26sesskey%3DTESTSESSKEY%26id%3D2&amp;scope=openid" />
+
+            <input type="hidden" name="captcha" id="captchaInput" value="" />
+
+            <div class="container">
+                <div class="row shadow">
+                    <div class="col-lg-6 col-12 fxt-bg-color">
+                        <div class="fxt-content">
+                            <div class="fxt-header">
+                                <div class="text-logo"><img src="/ApiContainer.SSO.RCL1/images/text-logo.png" alt="شهرداری قم" /></div>
+                                <div class="fxt-style-line">
+                                    <h2>سامانه احراز هویت مرکزی </h2>
+                                </div>
+                                </div>
+
+                            <div class="fxt-form" id="LoginWithUser">
+                                <form method="POST">
+                                    <div class="form-group">
+                                        <div class="fxt-transformY-50 fxt-transition-delay-1">
+                                            <input class="form-control login-input" placeholder="نام کاربری " autofocus type="text" id="Username" name="Username" value="">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                            <div class="password-container fxt-transformY-50 fxt-transition-delay-2">
+                                                <input type="password" class="form-control login-input " placeholder="رمز عبور" id="password" name="Password">
+                                                <i class="fa fa-eye" id="eye"></i>
+                                            </div>
+                                    </div>
+                                            <div class="form-group">
+                                        <div class="fxt-transformY-50 fxt-transition-delay-3">
+
+
+                                            <div class="fxt-checkbox-area ">
+                                                    <div class="form-group login-remember">
+                                                        <label for="RememberLogin">
+
+                                                            خروج از سامانه پس از بستن مرورگر
+                                                            <input checked="checked" type="checkbox" data-val="true" data-val-required="The RememberLogin field is required." id="RememberLogin" name="RememberLogin" value="true">
+                                                        </label>
+                                                    </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="fxt-transformY-50 fxt-transition-delay-4">
+                                            <button type="submit" name="button" value="login" class="fxt-btn-fill" formaction="/ApiContainer.SSO.RCL1/Account/login">ورود</button>
+
+                                        </div>
+                                           <div class="fxt-transformY-50 fxt-transition-delay-4">
+                                                    <a class="fxt-btn-fill light-blue" href="/ApiContainer.SSO.RCL1/External/Challenge?provider=iranman&amp;returnUrl=%2FApiContainer.SSO.RCL1%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DelearningSSO-VBUoZBaYVL116ZVwxBRSh-caRI6ag4.apigateway.ut.ac.ir%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Felearn.ut.ac.ir%252Fadmin%252Foauth2callback.php%26state%3D%252Fauth%252Futoauth2%252Flogin.php%253Fwantsurl%2526sesskey%253DTESTSESSKEY%2526id%253D2%26scope%3Dopenid">
+                                               ورود با درگاه دولت
+
+                                                    </a>
+
+                                        </div>
+
+                                    </div>
+
+                                <input name="__RequestVerificationToken" type="hidden" value="TESTTOKEN" /><input name="RememberLogin" type="hidden" value="false"></form>
+                            </div>
+                            <div class="footer-list">
+                                <div>
+                                <ul>
+
+                                    <li><a href="https://utid.ut.ac.ir/user/p/forgot">فراموشی رمز عبور</a></li>
+                                    <li><a href="https://utid.ut.ac.ir/register">دریافت شناسه یکتا</a></li>
+                                </ul>
+                                </div>
+
+                                <div class="fxt-footer">
+                                    <p><i class="fa fa-copyright"></i> کلیه حقوق این سامانه متعلق به دانشگاه تهران است.</p>
+                                    <p>طراحی و پیاده‌سازی: <a href="https://drssa.ir/" target="_blank" rel="noopener noreferrer">شرکت داتیس راد سامانه سپنتا</a></p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-12 fxt-none-991 fxt-bg-img gray-bg p-2">
+
+                        <div class="row">
+                            <img src="/ApiContainer.SSO.RCL1/images/figure/login-Image.png" alt="Logo" class="vector-img" style="margin-top:8% !important">
+                        </div>
+                        <div class="row p-box">
+                            <ul class="text-box">
+
+                                <li>
+                                    شما میتوانید برای ورود به سامانه های دانشگاه تهران با استفاده از نام کاربری به تنهایی و یا نام کاربری با  ut.ac.ir@ وارد شوید.
+                                </li>
+
+                                <li>
+                                    پس از ورود در سایر سامانه ها لاگین خواهید بود.
+                                </li>
+
+                            </ul>
+
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+            </div>
+        <input name="__RequestVerificationToken" type="hidden" value="TESTTOKEN" /></form>
+        <!-- Modal -->
+
+    </section>
+
+   
+
+
+    <!-- jquery-->
+    <script src="/ApiContainer.SSO.RCL1/js/jquery-3.5.0.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="/ApiContainer.SSO.RCL1/js/bootstrap.min.js"></script>
+    <!-- Imagesloaded js -->
+    <script src="/ApiContainer.SSO.RCL1/js/imagesloaded.pkgd.min.js"></script>
+    <!-- Validator js -->
+    <script src="/ApiContainer.SSO.RCL1/js/validator.min.js"></script>
+    <!-- Custom Js -->
+    <script src="/ApiContainer.SSO.RCL1/js/main.js"></script>
+
+    
+
+
+    <script src="/ApiContainer.SSO.RCL1/js/scripts.js?v=1"></script>
+
+
+</body>
+</html>

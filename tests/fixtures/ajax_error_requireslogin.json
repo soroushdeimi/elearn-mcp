@@ -1,0 +1,11 @@
+[
+ {
+  "error": true,
+  "exception": {
+   "message": "Web service is not available. (The session has been logged out or has expired.)",
+   "errorcode": "servicerequireslogin",
+   "link": "https://elearn.ut.ac.ir/",
+   "moreinfourl": "https://docs.moodle.org/502/fa/error/webservice/servicerequireslogin"
+  }
+ }
+]

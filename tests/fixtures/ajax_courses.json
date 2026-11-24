@@ -1,0 +1,79 @@
+[
+ {
+  "error": false,
+  "data": {
+   "courses": [
+    {
+     "id": 82934,
+     "fullname": "آنالیز ریاضی 1",
+     "shortname": "4041610309501",
+     "idnumber": "4041610309501",
+     "summary": "",
+     "summaryformat": 1,
+     "startdate": 1758313800,
+     "enddate": 1771014600,
+     "visible": true,
+     "showactivitydates": true,
+     "showcompletionconditions": true,
+     "pdfexportfont": "",
+     "fullnamedisplay": "4041610309501 آنالیز ریاضی 1",
+     "viewurl": "https://elearn.ut.ac.ir/course/view.php?id=82934",
+     "courseimage": "",
+     "progress": 0,
+     "hasprogress": false,
+     "isfavourite": false,
+     "hidden": false,
+     "showshortname": true,
+     "coursecategory": "نیمسال اول سال تحصیلی 04 - 05"
+    },
+    {
+     "id": 105730,
+     "fullname": "استنباط آماری",
+     "shortname": "4051810194701",
+     "idnumber": "4051810194701",
+     "summary": "",
+     "summaryformat": 1,
+     "startdate": 1790368200,
+     "enddate": 1807907400,
+     "visible": true,
+     "showactivitydates": true,
+     "showcompletionconditions": true,
+     "pdfexportfont": "",
+     "fullnamedisplay": "4051810194701 استنباط آماری",
+     "viewurl": "https://elearn.ut.ac.ir/course/view.php?id=105730",
+     "courseimage": "",
+     "progress": 0,
+     "hasprogress": false,
+     "isfavourite": false,
+     "hidden": false,
+     "showshortname": true,
+     "coursecategory": "نیمسال اول سال تحصیلی 05 - 06"
+    },
+    {
+     "id": 82860,
+     "fullname": "اصول سیستم های عامل",
+     "shortname": "4041610361401",
+     "idnumber": "4041610361401",
+     "summary": "",
+     "summaryformat": 1,
+     "startdate": 1758313800,
+     "enddate": 1771446600,
+     "visible": true,
+     "showactivitydates": true,
+     "showcompletionconditions": true,
+     "pdfexportfont": "",
+     "fullnamedisplay": "4041610361401 اصول سیستم های عامل",
+     "viewurl": "https://elearn.ut.ac.ir/course/view.php?id=82860",
+     "courseimage": "",
+     "progress": 0,
+     "hasprogress": false,
+     "isfavourite": false,
+     "hidden": false,
+     "showshortname": true,
+     "coursecategory": "نیمسال اول سال تحصیلی 04 - 05"
+    }
+   ],
+   "nextoffset": 17
+  }
+ }
+]

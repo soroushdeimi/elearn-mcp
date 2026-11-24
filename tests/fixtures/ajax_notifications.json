@@ -1,0 +1,79 @@
+[
+ {
+  "error": false,
+  "data": {
+   "notifications": [
+    {
+     "id": 214157804,
+     "useridfrom": -10,
+     "useridto": 12345,
+     "subject": "Due on سه‌شنبه، 3 آذر 1405، 11:59 عصر: تمرین سری پنجم",
+     "shortenedsubject": "Due on سه‌شنبه، 3 آذر 1405، 11:59 عصر: تمرین سری پنجم",
+     "text": "<p>Due on سه‌شنبه، 3 آذر 1405، 11:59 عصر: تمرین سری پنجم</p>",
+     "fullmessage": "سلام دانشجو،\n\nتکلیف تمرین سری پنجم در درس نظریه محاسبه\nبه زودی موعد سر رسید آن می‌رسد.< /p> سررسید:\nسه‌شنبه، 3 آذر 1405، 11:59 عصر\n\nرفتن به فعالیت [1]\n\n\nLinks:\n------\n[1] https://elearn.ut.ac.ir/mod/assign/view.php?id=1658730&amp;action=view\n",
+     "fullmessageformat": 1,
+     "fullmessagehtml": "<p>سلام دانشجو،</p>\n<p>تکلیف <strong>تمرین سری پنجم</strong> در درس نظریه محاسبه به زودی موعد سر رسید آن می‌رسد.< /p>\n<p><strong>سررسید: سه‌شنبه، 3 آذر 1405، 11:59 عصر</strong></p>\n<p><a href=\"https://elearn.ut.ac.ir/mod/assign/view.php?id=1658730&amp;action=view\">رفتن به فعالیت</a> </p>",
+     "smallmessage": "Due on سه‌شنبه، 3 آذر 1405، 11:59 عصر: تمرین سری پنجم",
+     "contexturl": "https://elearn.ut.ac.ir/mod/assign/view.php?id=1658730&action=view",
+     "contexturlname": "تمرین سری پنجم",
+     "timecreated": 1795383267,
+     "timecreatedpretty": "1 روز 9 ساعت قبل",
+     "timeread": null,
+     "read": false,
+     "deleted": false,
+     "iconurl": "https://elearn.ut.ac.ir/theme/image.php/boost/mod_assign/1794115524/monologo",
+     "component": "mod_assign",
+     "eventtype": "assign_due_soon",
+     "customdata": "{\"assignmentid\":91243,\"duedate\":1795552140}"
+    },
+    {
+     "id": 213286369,
+     "useridfrom": -10,
+     "useridto": 12345,
+     "subject": "Due on چهارشنبه، 13 آبان 1405، 11:59 عصر: تمرین کامپیوتری دوم",
+     "shortenedsubject": "Due on چهارشنبه، 13 آبان 1405، 11:59 عصر: تمرین کامپیوتری دوم",
+     "text": "<p>Due on چهارشنبه، 13 آبان 1405، 11:59 عصر: تمرین کامپیوتری دوم</p>",
+     "fullmessage": "سلام دانشجو،\n\nتکلیف تمرین کامپیوتری دوم در درس هوش\nمصنوعی به زودی موعد سر رسید آن می‌رسد.< /p>\nسررسید: چهارشنبه، 13 آبان 1405، 11:59 عصر\n\nرفتن به فعالیت [1]\n\n\nLinks:\n------\n[1] https://elearn.ut.ac.ir/mod/assign/view.php?id=1637546&amp;action=view\n",
+     "fullmessageformat": 1,
+     "fullmessagehtml": "<p>سلام دانشجو،</p>\n<p>تکلیف <strong>تمرین کامپیوتری دوم</strong> در درس هوش مصنوعی به زودی موعد سر رسید آن می‌رسد.< /p>\n<p><strong>سررسید: چهارشنبه، 13 آبان 1405، 11:59 عصر</strong></p>\n<p><a href=\"https://elearn.ut.ac.ir/mod/assign/view.php?id=1637546&amp;action=view\">رفتن به فعالیت</a> </p>",
+     "smallmessage": "Due on چهارشنبه، 13 آبان 1405، 11:59 عصر: تمرین کامپیوتری دوم",
+     "contexturl": "https://elearn.ut.ac.ir/mod/assign/view.php?id=1637546&action=view",
+     "contexturlname": "تمرین کامپیوتری دوم",
+     "timecreated": 1793653304,
+     "timecreatedpretty": "21 روز 9 ساعت قبل",
+     "timeread": null,
+     "read": false,
+     "deleted": false,
+     "iconurl": "https://elearn.ut.ac.ir/theme/image.php/boost/mod_assign/1794115524/monologo",
+     "component": "mod_assign",
+     "eventtype": "assign_due_soon",
+     "customdata": "{\"assignmentid\":88349,\"duedate\":1793824140}"
+    },
+    {
+     "id": 213285581,
+     "useridfrom": -10,
+     "useridto": 12345,
+     "subject": "Due on چهارشنبه، 13 آبان 1405، 11:59 عصر: تمرین کامپیوتری دوم",
+     "shortenedsubject": "Due on چهارشنبه، 13 آبان 1405، 11:59 عصر: تمرین کامپیوتری دوم",
+     "text": "<p>Due on چهارشنبه، 13 آبان 1405، 11:59 عصر: تمرین کامپیوتری دوم</p>",
+     "fullmessage": "سلام دانشجو،\n\nتکلیف تمرین کامپیوتری دوم در درس هوش\nمصنوعی به زودی موعد سر رسید آن می‌رسد.< /p>\nسررسید: چهارشنبه، 13 آبان 1405، 11:59 عصر\n\nرفتن به فعالیت [1]\n\n\nLinks:\n------\n[1] https://elearn.ut.ac.ir/mod/assign/view.php?id=1618010&amp;action=view\n",
+     "fullmessageformat": 1,
+     "fullmessagehtml": "<p>سلام دانشجو،</p>\n<p>تکلیف <strong>تمرین کامپیوتری دوم</strong> در درس هوش مصنوعی به زودی موعد سر رسید آن می‌رسد.< /p>\n<p><strong>سررسید: چهارشنبه، 13 آبان 1405، 11:59 عصر</strong></p>\n<p><a href=\"https://elearn.ut.ac.ir/mod/assign/view.php?id=1618010&amp;action=view\">رفتن به فعالیت</a> </p>",
+     "smallmessage": "Due on چهارشنبه، 13 آبان 1405، 11:59 عصر: تمرین کامپیوتری دوم",
+     "contexturl": "https://elearn.ut.ac.ir/mod/assign/view.php?id=1618010&action=view",
+     "contexturlname": "تمرین کامپیوتری دوم",
+     "timecreated": 1793652168,
+     "timecreatedpretty": "21 روز 10 ساعت قبل",
+     "timeread": null,
+     "read": false,
+     "deleted": false,
+     "iconurl": "https://elearn.ut.ac.ir/theme/image.php/boost/mod_assign/1794115524/monologo",
+     "component": "mod_assign",
+     "eventtype": "assign_due_soon",
+     "customdata": "{\"assignmentid\":86940,\"duedate\":1793824140}"
+    }
+   ],
+   "unreadcount": 6
+  }
+ }
+]

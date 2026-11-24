@@ -1,0 +1,46 @@
+[project]
+name = "elearn-mcp"
+version = "0.1.0"
+description = "MCP server for elearn.ut.ac.ir"
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx",
+    "beautifulsoup4",
+    "mcp",
+    "pypdf>=6",
+    "python-pptx>=1.0.2",
+    "python-docx>=1.2.0",
+    "celery[redis]>=5.7.0",
+]
+
+[project.scripts]
+elearn-mcp = "elearn_mcp.server:main"
+elearn-watch = "elearn_mcp.watch:main"
+elearn-worker = "elearn_mcp.jobs:worker_main"
+elearn-beat = "elearn_mcp.jobs:beat_main"
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "respx",
+    "ruff",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/elearn_mcp"]
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
